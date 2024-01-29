@@ -1,7 +1,7 @@
 <h1>Luciano Akwuh aqui :smile:</h1> 
 <p>To every problem, a tool to solve ever. What am i? A Tool maker.</p>
 
-<p>Sou Desenvolvedor Front End, apaixonado em tecnologia no modo geral</p>
+<p>Sou Desenvolvedor Front End, apaixonado por tecnologias</p>
 
 
 <div style= "display:inline" >
