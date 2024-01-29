@@ -21,9 +21,9 @@ ________________________________________________________________________________
 <a href="mailto:lucianoae93@gmail.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>         
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LuakezDev=anuraghazra&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuakezDev&hide=javascript,html)
           
-          
+         
           
 
 <!--
