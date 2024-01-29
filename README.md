@@ -1,5 +1,6 @@
 Luciano Akwuh aqui :) 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
+Atualme as linguagens que domino:
 
 <div style= "display:inline" >
 <img width='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
