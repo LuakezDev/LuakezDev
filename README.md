@@ -2,7 +2,7 @@ Luciano Akwuh aqui :)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 <p>To every problem, a tool to solve ever. What am i? A Tool maker.</p>
 
-Sou Desenvolvedor Front End, apaixonado em tecnologia no modo geral
+<p>Sou Desenvolvedor Front End, apaixonado em tecnologia no modo geral</p>
 Atualme as linguagens que domino:
 
 <div style= "display:inline" >
