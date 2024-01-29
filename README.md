@@ -1,5 +1,4 @@
 <h1>Luciano Akwuh aqui :)</h1> 
-__________________________________________________________________________________________________________________________________________________________________
 <p>To every problem, a tool to solve ever. What am i? A Tool maker.</p>
 
 <p>Sou Desenvolvedor Front End, apaixonado em tecnologia no modo geral</p>
