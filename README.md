@@ -9,7 +9,7 @@ ________________________________________________________________________________
 <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 ______________________________________________________________________________________
-
+</br>
 <div style= "display:inline" >
 <a href="https://www.linkedin.com/in/luciano-shukwuemeka-akwuh-ezeta-8a0840155/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:lucianoae93@gmail.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
