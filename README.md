@@ -22,6 +22,7 @@ ________________________________________________________________________________
 </div>         
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuakezDev&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuakezDev)](https://github.com/anuraghazra/github-readme-stats)
           
          
           
