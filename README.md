@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 <h2>:punch:Alguns números do GitHub</h2>
 
-![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=LuakezDev&show_icons=true&theme=dark)
+![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=LuakezDev&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuakezDev)](https://github.com/LuakezDev/github-readme-stats)
           
          
