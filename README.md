@@ -1,6 +1,6 @@
 Luciano Akwuh aqui :) 
 
-<img width'50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 
 <!--
