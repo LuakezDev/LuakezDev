@@ -1,4 +1,4 @@
-<h1>Luciano Akwuh aqui :)</h1> 
+<h1>Luciano Akwuh aqui :smile:</h1> 
 <p>To every problem, a tool to solve ever. What am i? A Tool maker.</p>
 
 <p>Sou Desenvolvedor Front End, apaixonado em tecnologia no modo geral</p>
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 <a href="mailto:lucianoae93@gmail.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>         
 
-<h2>:punch:Algun números do GitHub</h2>
+<h2>:punch:Alguns números do GitHub</h2>
 
 ![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=LuakezDev&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuakezDev)](https://github.com/LuakezDev/github-readme-stats)
